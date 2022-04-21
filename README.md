@@ -4,7 +4,7 @@
 
 📑 I like to learn new technologies. My focus currently is Java and Angular
 
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/f%C3%A1bio-fran%C3%A7a-019a2b200)](https://www.linkedin.com/in/f%C3%A1bio-fran%C3%A7a-019a2b200)"/>
+<a href="https://www.linkedin.com/in/%C3%A1bio-fran%C3%A7a-019a2b200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=fabio-franca&layout=compact&langs_count=7&theme=dracula"></code>
 <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-franca&layout=compact&langs_count=7&theme=dracula"></code>
