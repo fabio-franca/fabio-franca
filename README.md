@@ -1,6 +1,6 @@
-##Welcome to my github. I'm Fábio França, web developer! 💻
-🏡 I’m from Brazil.
-📑 I like to learn new technologies. My focus currently is Java and Angular
+## Welcome to my github. I'm Fábio França, web developer! 💻
+## 🏡 I’m from Brazil.
+## 📑 I like to learn new technologies. My focus currently is Java and Angular
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/f%C3%A1bio-fran%C3%A7a-019a2b200)](https://www.linkedin.com/in/f%C3%A1bio-fran%C3%A7a-019a2b200)" />
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
